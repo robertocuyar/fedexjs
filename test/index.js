@@ -1,10 +1,10 @@
 var fedexAPI = require('../lib/index.js');
 
 var fedex = new fedexAPI({
-    account_number: 'ACCOUNT_NUMBER',
-    meter_number: 'METER_NUMBER',
-    key: 'WEB_SERVICES_KEY',
-    password: 'WEB_SERVICES_PASSWORD',
+    account_number: '510087780',
+    meter_number: '119233823',
+    key: '  WdO6uydPOQ9U5LxW',
+    password: 'nmDZwmmAzg2wXq66utbNG7PFf',
     env: 'test'
 });
 
